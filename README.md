@@ -1,5 +1,5 @@
 <h1>SACRED BAAR</h1>
-A networked portal where multiple customers can log in simultaneously for the retailer and shop within thier session<br>
+A networked portal where multiple customers    can log in simultaneously for the retailer and shop within thier session<br>
 Customer can : <br>sign in using username and password<br>
                sign up as a new customer<br>
                view offers exclusively for him<br>
